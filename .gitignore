@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
