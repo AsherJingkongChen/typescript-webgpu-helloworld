@@ -1,5 +1,7 @@
 # TypeScript WebGPU Hello World
 
+<small style=font-style:italic>Hint: Open ./cline_tip-en_US.md or ./cline_tip-zh_TW.md for more details.</small>
+
 A simple "Hello World" example using TypeScript and WebGPU. This project demonstrates the basic setup for a WebGPU application, resulting in a canvas cleared to a HotPink color.
 
 ## Project Goal
